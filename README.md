@@ -48,15 +48,25 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=MusabBoltX" alt="Syed Musab's GitHub Stats">
 
-  <p>Visitors: <img src="https://visitor-badge.laobi.icu/badge?page_id=MusabBoltX.MusabBoltX" alt="Visitors"></p>
+  <div>
+        <img class="shields" src="https://visitor-badge.laobi.icu/badge?page_id=MusabBoltX.MusabBoltX" alt="Visitors" />
+        <img class="shields" src="https://img.shields.io/github/followers/MusabBoltX?style=social" alt="GitHub followers" />
+        <img class="shields" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+    <br>
+    <br>
+        <img class="shields" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
+        <img class="shields" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+        <img class="shields" src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+        <img class="shields" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  </div>
 
   <h3>Connect with me:</h3>
 
   <a href="https://www.linkedin.com/in/syed-musab/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Syed Musab" height="30" width="40" />
+    <img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-png.png" alt="Syed Musab" height="30" />
   </a>
-
   <p>
+  <br>
     Feel free to explore my coding journey, and don't hesitate to reach out for a tech chat or collaboration! 🚀✨
   </p>
 
