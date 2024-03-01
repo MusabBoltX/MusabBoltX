@@ -10,6 +10,9 @@
 
 <body>
 
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif"/>
+  </div>
   <h1 style="text-align: center;">🚀 Welcome to Syed Musab's GitHub Playground! 🚀</h1>
 
   ![BannerLinkedIn](https://github.com/MusabBoltX/MusabBoltX/assets/68772934/3f7d07c3-840f-4f0e-9e8a-0e32dfc8cbd0)
