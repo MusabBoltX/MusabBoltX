@@ -14,45 +14,43 @@
 
   ![BannerLinkedIn](https://github.com/MusabBoltX/MusabBoltX/assets/68772934/3f7d07c3-840f-4f0e-9e8a-0e32dfc8cbd0)
 
-  <h2 style="text-align: center;">👋 Hey there! I'm Syed Musab</h2>
+  <h3 style="text-align: center;">👋 Hey there! I'm Syed Musab from Pakistan 🇵🇰</h3>
 
-  <h3 style="text-align: center;">💻 Flutter Developer Extraordinaire from Karachi, Pakistan 🇵🇰</h3>
-
-  <h2 style="text-align: left;">Who am I? 😃</h2>
+  <h1 style="text-align: left;">Who am I? 😃</h1>
 
   <p>
-    I'm Syed Musab, a graduate in Computer Science from <a href="https://www.ssuet.edu.pk/">Sir Syed University of Engineering and Technology</a>. I'm not just a coder; I'm a tech enthusiast with an insatiable curiosity to learn and create. With almost 3 years of Flutter development under my belt, I've dabbled in diverse app domains:
+    I'm Syed Musab, a graduate in Computer Science from <a href="https://www.ssuet.edu.pk/">Sir Syed University of Engineering and Technology</a>. I'm not just a coder; I'm a tech enthusiast with an insatiable curiosity to learn and create. With almost 3-4 years of Flutter development under my belt, I've dabbled in diverse app domains:
   </p>
 
-  <ul>
-    <li>🚩 Health Care</li>
-    <li>🚩 Social Media</li>
-    <li>🚩 Fintech</li>
-    <li>🚩 B2B</li>
-    <li>🚩 Tourism</li>
-    <li>🚩 Airlines</li>
-  </ul>
+# App Domains
+    🏥 Health Care
+    💹 Social Media
+    💸 Fintech
+    📂 B2B
+    🏟️ Tourism
+    🛫 Airlines
 
-  <p>
-    But that's not all—I wield the pen as a powerful tool for poetry and creativity, always on the lookout for the extraordinary and interesting in life.
-  </p>
-
-  <div style="text-align: center;">
-    <h3>Technologies & Tools 🛠</h3>
-  </div>
-
-  <div style="text-align: center;">
-    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-    <img class="shields" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-    <br>
-    <img class="shields" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
-    <img class="shields" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-    <img class="shields" src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
-    <img class="shields" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-    <br>
-    <br>
-  </div>
+# 💻 Technologies & Tools 🛠
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)	
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) 
+![Stackoverflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
+<br>
+<br>
+# 📊 GitHub Stats :
+![](https://github-readme-streak-stats.herokuapp.com/?user=MusabBoltX&theme=flag-india&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MusabBoltX&theme=flag-india&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
   <img src="https://github-readme-stats.vercel.app/api?username=MusabBoltX" alt="Syed Musab's GitHub Stats">
 
@@ -61,7 +59,7 @@
         <img class="shields" src="https://img.shields.io/github/followers/MusabBoltX?style=social" alt="GitHub followers" />
   </div>
 
-  <h3>Connect with me:</h3>
+  # Connect with me:
 
   <a href="https://www.linkedin.com/in/syed-musab/" target="blank">
     <img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-png.png" alt="Syed Musab" height="30" />
