@@ -48,18 +48,20 @@
 ![Stackoverflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 <br>
 <br>
+
 # 📊 GitHub Stats :
+<div align = "center">
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MusabBoltX&theme=flag-india&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MusabBoltX&theme=flag-india&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-  <img src="https://github-readme-stats.vercel.app/api?username=MusabBoltX" alt="Syed Musab's GitHub Stats">
+</div>
 
   <div>
         <img class="shields" src="https://visitor-badge.laobi.icu/badge?page_id=MusabBoltX.MusabBoltX" alt="Visitors" />
         <img class="shields" src="https://img.shields.io/github/followers/MusabBoltX?style=social" alt="GitHub followers" />
   </div>
 
-  # Connect with me:
+  # Connect with me :
 
   <a href="https://www.linkedin.com/in/syed-musab/" target="blank">
     <img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-png.png" alt="Syed Musab" height="30" />
@@ -69,6 +71,11 @@
     Feel free to explore my coding journey, and don't hesitate to reach out for a tech chat or collaboration! 🚀✨
   </p>
 
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
 </body>
 
 </html>
