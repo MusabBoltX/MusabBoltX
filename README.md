@@ -12,7 +12,7 @@
 
   <h1 style="text-align: center;">🚀 Welcome to Syed Musab's GitHub Playground! 🚀</h1>
 
-  <img style="float: right;" src="5eKX.gif" width="400" height="320" alt="Gif" />
+  ![BannerLinkedIn](https://github.com/MusabBoltX/MusabBoltX/assets/68772934/3f7d07c3-840f-4f0e-9e8a-0e32dfc8cbd0)
 
   <h2 style="text-align: center;">👋 Hey there! I'm Syed Musab</h2>
 
@@ -44,6 +44,14 @@
   <div style="text-align: center;">
     <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
     <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+    <img class="shields" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+    <br>
+    <img class="shields" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
+    <img class="shields" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+    <img class="shields" src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+    <img class="shields" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+    <br>
+    <br>
   </div>
 
   <img src="https://github-readme-stats.vercel.app/api?username=MusabBoltX" alt="Syed Musab's GitHub Stats">
@@ -51,13 +59,6 @@
   <div>
         <img class="shields" src="https://visitor-badge.laobi.icu/badge?page_id=MusabBoltX.MusabBoltX" alt="Visitors" />
         <img class="shields" src="https://img.shields.io/github/followers/MusabBoltX?style=social" alt="GitHub followers" />
-        <img class="shields" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-    <br>
-    <br>
-        <img class="shields" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
-        <img class="shields" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-        <img class="shields" src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
-        <img class="shields" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   </div>
 
   <h3>Connect with me:</h3>
