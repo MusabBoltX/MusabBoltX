@@ -27,6 +27,9 @@
 
 # App Domains
     🏥 Health Care
+    📈 Sales Management System (SMS)
+    🛃 Customer Relationship Management (CRM)
+    🧍🏻 Human Resource Management System (HRMS)
     💹 Social Media
     💸 Fintech
     📂 B2B
