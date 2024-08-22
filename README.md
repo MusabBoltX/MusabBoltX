@@ -27,6 +27,7 @@
 
 # App Domains
     🏥 Health Care
+    🏥 Hospital Management Information System (HMIS)
     📈 Sales Management System (SMS)
     🛃 Customer Relationship Management (CRM)
     🧍🏻 Human Resource Management System (HRMS)
